@@ -2,15 +2,15 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+title = "grown-ops"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
