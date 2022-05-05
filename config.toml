@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "terminal"
+theme = "kross-hugo"
 title = "grown-ops"
 [[menu.main]]
 URL = "about"
